@@ -1,1 +1,1 @@
-thus is calculator program which is written in my summer training period 
+this is calculator program which is written in my summer training period 
